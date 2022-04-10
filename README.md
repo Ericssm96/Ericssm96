@@ -12,12 +12,12 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fpmw2-1.fna.fbcdn.net/v/t51.2885-15/43334597_759347481074820_2241901314271518240_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fpmw2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=rg8NWgfPSwIAX_uMX1C&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MTg5Mjk0MDc3MTE1NTAxMTY0NQ%3D%3D.2-ccb7-4&oh=00_AT_LMu5bt_jBnu06iaqZjtnGhS4W_V6tRWh26LrmYtVTAQ&oe=6258EFE2&_nc_sid=30a2ef">
+  <img align="center" alt="Eric-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Eric-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://instagram.fpmw2-1.fna.fbcdn.net/v/t51.2885-15/43334597_759347481074820_2241901314271518240_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fpmw2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=rg8NWgfPSwIAX_uMX1C&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MTg5Mjk0MDc3MTE1NTAxMTY0NQ%3D%3D.2-ccb7-4&oh=00_AT_LMu5bt_jBnu06iaqZjtnGhS4W_V6tRWh26LrmYtVTAQ&oe=6258EFE2&_nc_sid=30a2ef">
 </div>
   
   ##
