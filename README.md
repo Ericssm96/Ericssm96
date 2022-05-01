@@ -17,7 +17,7 @@
   <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://instagram.fpmw2-1.fna.fbcdn.net/v/t51.2885-15/43334597_759347481074820_2241901314271518240_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fpmw2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=rg8NWgfPSwIAX_uMX1C&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MTg5Mjk0MDc3MTE1NTAxMTY0NQ%3D%3D.2-ccb7-4&oh=00_AT_LMu5bt_jBnu06iaqZjtnGhS4W_V6tRWh26LrmYtVTAQ&oe=6258EFE2&_nc_sid=30a2ef">
+  <img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://ericstefano-portfolio.netlify.app/static/media/yol.e3d1170a4539a3b756ab.JPG">
 </div>
   
   ##
