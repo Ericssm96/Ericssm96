@@ -17,7 +17,7 @@
   <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://ericstefano-portfolio.netlify.app/static/media/yol.e3d1170a4539a3b756ab.JPG">
+  <img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/94946025?v=4">
 </div>
   
   ##
