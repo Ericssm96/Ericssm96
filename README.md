@@ -1,7 +1,7 @@
 
 - ✌  My name's Eric Stéfano
 - 🔭 I’m currently working on Frontend with ReactJS
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently working with JavaScript, PHP and WordPress.
 - 😄 Pronouns: his/him
 
 
