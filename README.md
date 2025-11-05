@@ -1,7 +1,6 @@
 
 - ✌  My name's Eric Stéfano
 - 🔭 I’m currently working with JavaScript, PHP and WordPress.
-- 😄 Pronouns: his/him
 
 
 <div align="center">
